@@ -10,3 +10,5 @@ idk, stuff goes here with like photos and stuff
 
 ## Team (2015-2016)
 there are fates worse than death graduated
+
+![alt text](/images/test.jpg "a doggo")
