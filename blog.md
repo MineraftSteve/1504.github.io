@@ -9,8 +9,9 @@ permalink: /blog/
     {% for post in site.posts %}
       <div>
       <h2>
-          <a class="link black-80" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          <a class="link black-80 underline dim" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
+        
         <span class="f4 black-50 i center">{{ post.date | date: "%b %-d, %Y" }}</span>
       </div>
     {% endfor %}
