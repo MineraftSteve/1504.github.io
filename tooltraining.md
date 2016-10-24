@@ -11,3 +11,5 @@ permalink: /tooltraining/
 [Band Saw](https://goo.gl/forms/b2chzRPb2TnObY7L2)
 
 [Drill Press](https://goo.gl/forms/qKts9VAfvX1rqBP52)
+
+[Bench Grinder](https://goo.gl/forms/hU6Rxi6RvWYKww9J2)
