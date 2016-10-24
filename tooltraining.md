@@ -1,0 +1,13 @@
+---
+layout: page
+title: 
+permalink: /tooltraining/
+---
+# Links
+[Portable Drill](https://goo.gl/forms/cvp3JxBkIvO1nK462)
+
+[Belt and Disc Sander](https://goo.gl/forms/sgIvpWfMalvQqypP2)
+
+[Band Saw](https://goo.gl/forms/b2chzRPb2TnObY7L2)
+
+[Drill Press](https://goo.gl/forms/qKts9VAfvX1rqBP52)
