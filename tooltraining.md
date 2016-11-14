@@ -6,7 +6,7 @@ permalink: /tooltraining/
 # Links
 [Portable Drill](https://goo.gl/forms/cvp3JxBkIvO1nK462)
 
-[Belt and Disc Sander](https://goo.gl/forms/sgIvpWfMalvQqypP2)
+[Belt Sander](https://goo.gl/forms/sgIvpWfMalvQqypP2)
 
 [Band Saw](https://goo.gl/forms/b2chzRPb2TnObY7L2)
 
