@@ -1,4 +1,34 @@
 .main {
     display: flex;
+    flex-direction: column;
+}
+.topbar {
+    display: flex;
     flex-direction: row;
+    flex: 1;
+    margin: 1%;
+}
+.icon {
+    margin-right: 1%;
+}
+.title {
+    margin-right: 1%;
+}
+.mainbottom {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    margin: 1%;
+}
+.sidelinks{
+    flex: 1;
+    margin-top: 10%;
+}
+.body{
+    flex: 1;
+    margin-left: 1%;
+}
+.bodypost {
+    flex: 1;
+    margin-top: 1%;
 }
