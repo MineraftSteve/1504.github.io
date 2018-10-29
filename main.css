@@ -1,34 +1,12 @@
-.main {
-    display: flex;
-    flex-direction: column;
+body {
+    background-color: grey;
 }
-.topbar {
-    display: flex;
-    flex-direction: row;
-    flex: 1;
-    margin: 1%;
+.fullheight { 
+    height: 100%;
+    min-height: 100%
 }
-.icon {
-    margin-right: 1%;
-}
-.title {
-    margin-right: 1%;
-}
-.mainbottom {
-    display: flex;
-    flex: 1;
-    flex-direction: row;
-    margin: 1%;
-}
-.sidelinks{
-    flex: 1;
-    margin-top: 10%;
-}
-.body{
-    flex: 1;
-    margin-left: 1%;
-}
-.bodypost {
-    flex: 1;
-    margin-top: 1%;
+.topbar{
+    margin: 0px;
+    height: 10%;
+    background-color:yellow;
 }
